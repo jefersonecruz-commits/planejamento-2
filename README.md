@@ -79,3 +79,9 @@
 
 ## classes de uso: 
   ![classes](images/classes.png)
+
+## sequencias: 
+  ![login](images/login.png)
+
+## cadastro de funcionario:
+  ![cadastro funcionario](images/captura2.png)
